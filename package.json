@@ -1,0 +1,72 @@
+{
+  "name": "decents",
+  "version": "1.0.0",
+  "description": "Decentralized Savings Platform",
+  "main": "index.js",
+  "repository": "git@github.com:Wyvarn/decents.git",
+  "author": "BrianLusina <12752833+BrianLusina@users.noreply.github.com>",
+  "license": "LGLP-3.0",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ethers": "^4.0.44",
+    "identicon.js": "^2.3.3",
+    "moment": "^2.24.0",
+    "native-base": "^2.13.8",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-camera": "^3.17.0",
+    "react-native-easy-grid": "^0.2.2",
+    "react-native-gesture-handler": "^1.5.6",
+    "react-native-modal": "^11.5.3",
+    "react-native-permissions": "^2.0.9",
+    "react-native-qrcode-svg": "^6.0.3",
+    "react-native-sensitive-info": "^5.5.5",
+    "react-native-snackbar": "^2.2.0",
+    "react-native-svg": "^11.0.1",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/plugin-proposal-decorators": "^7.8.3",
+    "@babel/plugin-transform-runtime": "^7.8.3",
+    "@babel/runtime": "^7.8.4",
+    "@react-native-community/eslint-config": "^0.0.7",
+    "@types/jest": "^24.0.24",
+    "@types/react-native": "^0.60.25",
+    "@types/react-test-renderer": "16.9.1",
+    "@typescript-eslint/eslint-plugin": "^2.12.0",
+    "@typescript-eslint/parser": "^2.12.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^25.1.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "eslint": "^6.8.0",
+    "eslint-config-rallycoding": "^3.2.0",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.58.0",
+    "react-native-debugger-open": "^0.3.24",
+    "react-native-mock-render": "^0.1.8",
+    "react-test-renderer": "16.9.0",
+    "typescript": "^3.7.3"
+  },
+  "jest": {
+    "preset": "react-native",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  }
+}
