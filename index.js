@@ -5,7 +5,7 @@
 import {AppRegistry, YellowBox} from 'react-native';
 import App from './src/App';
 import {name as appName} from './app.json';
-import './src/common/utils/shims';
+import '@utils/shims';
 
 // YellowBox.ignoreWarnings([
 //     'Warning: componentWillMount',

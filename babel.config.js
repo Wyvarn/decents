@@ -7,7 +7,10 @@ module.exports = {
         alias: {
           '@assets': './assets',
           '@common': './src/common',
-          '@components': './src/components'
+          '@components': './src/components',
+          "@styles": "./src/styles",
+          "@colors": "./src/styles/colors.ts",
+          "@utils": "utils"
         }
       }
     ],

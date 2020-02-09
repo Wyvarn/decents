@@ -93,16 +93,10 @@ module.exports = {
         // "\\.(css|less|scss)$": "<rootDir>/src/assets/styles",
         // "\\.(css)$": "<rootDir>/node_modules/",
         // "\\.(png|jpg|svg)$": "<rootDir>/src/assets/images",
-        "^Styles/(.*)$": "<rootDir>/src/styles/$1",
-        "^Store/(.*)$": "<rootDir>/src/store/$1",
-        "^Components/(.*)$": "<rootDir>/src/components/$1",
-        "^Storage/(.*)$": "<rootDir>/src/services/storage/$1",
-        "^Translations/(.*)$": "<rootDir>/src/i18n/$1",
-        "^Providers/(.*)$": "<rootDir>/src/providers/$1",
-        "^TimeUtils": "<rootDir>/src/utils/timeUtils.ts",
-        "^DomUtils": "<rootDir>/src/utils/domUtils.ts",
-        "^Pages/(.*)$": "<rootDir>/src/pages/$1",
-        "^Templates/(.*)$": "<rootDir>/src/templates/$1"
+        "^@styles/(.*)$": "<rootDir>/src/styles/$1",
+        "^@store/(.*)$": "<rootDir>/src/store/$1",
+        "^@components/(.*)$": "<rootDir>/src/components/$1",
+        "^@utils": "<rootDir>/src/utils"
     },
     setupFilesAfterEnv: ["<rootDir>/config/setupTests.js"]
 };

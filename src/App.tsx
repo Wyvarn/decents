@@ -15,6 +15,7 @@ import {
   View,
   StatusBar,
 } from 'react-native';
+import colors from "@colors"
 
 const STATUSBAR_CONFIG = {
   backgroundColor: colors.statusBar,
@@ -56,7 +57,7 @@ export default class Application extends Component<Props> {
       return true;
     }
     return false
-  }
+  };
 
   render() {
     return (
