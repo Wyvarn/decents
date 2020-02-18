@@ -10,7 +10,8 @@ module.exports = {
           '@components': './src/components',
           "@styles": "./src/styles",
           "@colors": "./src/styles/colors.ts",
-          "@utils": "utils"
+          "@utils": "utils",
+          "@store": "./src/store"
         }
       }
     ],

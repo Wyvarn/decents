@@ -96,7 +96,8 @@ module.exports = {
         "^@styles/(.*)$": "<rootDir>/src/styles/$1",
         "^@store/(.*)$": "<rootDir>/src/store/$1",
         "^@components/(.*)$": "<rootDir>/src/components/$1",
-        "^@utils": "<rootDir>/src/utils"
+        "^@utils": "<rootDir>/src/utils",
+        "^@store": "<rootDir>/src/store"
     },
     setupFilesAfterEnv: ["<rootDir>/config/setupTests.js"]
 };
