@@ -7380,10 +7380,10 @@ react-native-keyboard-aware-scroll-view@0.9.1:
     prop-types "^15.6.2"
     react-native-iphone-x-helper "^1.0.3"
 
-react-native-mock-render@^0.1.8:
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/react-native-mock-render/-/react-native-mock-render-0.1.8.tgz#fe74a0f9e82bd17ed906926d7138d098dfd9acde"
-  integrity sha512-VMVj1RUARMknMvaAjBmWWS9TarcpYm5uX6UaeAUSDn7mvBB8O1cY71Qt4oQUGe4RnGO8ATPSeoXzVkAmCls24g==
+react-native-mock-render@^0.1.9:
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/react-native-mock-render/-/react-native-mock-render-0.1.9.tgz#a51937848db21ec5aea85d290c2a7ebedf00af93"
+  integrity sha512-nuoa+2wmUc2Rcf5VvWFkYIN6uT1iZMVhdi71kApEjc8M4y+wcXhRqyDWQt7yd3e7zRnmBgjYR/iObivhBBHZgA==
   dependencies:
     create-react-class "^15.6.2"
     cubic-bezier "^0.1.2"
