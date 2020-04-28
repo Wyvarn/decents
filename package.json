@@ -61,7 +61,7 @@
     "jest": "^25.4.0",
     "metro-react-native-babel-preset": "^0.59.0",
     "react-native-debugger-open": "^0.3.24",
-    "react-native-mock-render": "^0.1.8",
+    "react-native-mock-render": "^0.1.9",
     "react-test-renderer": "16.13.1",
     "typescript": "^3.8.3"
   }
