@@ -20,7 +20,7 @@
     "@react-navigation/native": "^5.1.7",
     "@react-navigation/stack": "^5.2.13",
     "axios": "^0.19.2",
-    "ethers": "^4.0.47",
+    "ethers": "^5.0.0",
     "identicon.js": "^2.3.3",
     "moment": "^2.24.0",
     "native-base": "^2.13.12",
