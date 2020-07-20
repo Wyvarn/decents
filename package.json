@@ -17,7 +17,7 @@
     "prepare": "yarn run snyk-protect"
   },
   "dependencies": {
-    "@react-navigation/native": "^5.1.7",
+    "@react-navigation/native": "^5.7.1",
     "@react-navigation/stack": "^5.2.13",
     "axios": "^0.19.2",
     "ethers": "^5.0.0",
