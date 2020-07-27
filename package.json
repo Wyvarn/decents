@@ -44,10 +44,10 @@
     "snyk": "^1.316.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/plugin-proposal-decorators": "^7.8.3",
-    "@babel/plugin-transform-runtime": "^7.9.0",
-    "@babel/runtime": "^7.9.2",
+    "@babel/core": "^7.10.5",
+    "@babel/plugin-proposal-decorators": "^7.10.5",
+    "@babel/plugin-transform-runtime": "^7.10.5",
+    "@babel/runtime": "^7.10.5",
     "@react-native-community/eslint-config": "^0.0.7",
     "@types/jest": "^24.0.24",
     "@types/react-native": "^0.62.5",
