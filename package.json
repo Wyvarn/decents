@@ -22,7 +22,7 @@
     "axios": "^0.19.2",
     "ethers": "^5.0.0",
     "identicon.js": "^2.3.3",
-    "moment": "^2.24.0",
+    "moment": "^2.27.0",
     "native-base": "^2.13.12",
     "react": "16.13.1",
     "react-native": "0.63.2",
@@ -32,8 +32,8 @@
     "react-native-gesture-handler": "^1.6.1",
     "react-native-permissions": "^2.1.2",
     "react-native-qrcode-svg": "^6.0.6",
-    "react-native-sensitive-info": "^5.5.5",
     "react-native-snackbar": "^2.2.3",
+    "react-native-sensitive-info": "^5.5.8",
     "react-native-svg": "^11.0.1",
     "react-native-vector-icons": "^6.6.0",
     "react-navigation": "^4.3.8",
@@ -41,7 +41,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
-    "snyk": "^1.366.2"
+    "snyk": "^1.369.2"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
