@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@react-navigation/stack": "^5.7.1",
-    "@react-navigation/native": "^5.7.1",
+    "@react-navigation/native": "^5.7.3",
     "axios": "^0.19.2",
     "ethers": "^5.0.0",
     "identicon.js": "^2.3.3",
