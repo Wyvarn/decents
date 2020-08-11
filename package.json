@@ -17,8 +17,8 @@
     "prepare": "yarn run snyk-protect"
   },
   "dependencies": {
-    "@react-navigation/stack": "^5.7.1",
     "@react-navigation/native": "^5.7.3",
+    "@react-navigation/stack": "^5.9.0",
     "axios": "^0.19.2",
     "ethers": "^5.0.0",
     "identicon.js": "^2.3.3",
@@ -36,7 +36,7 @@
     "react-native-sensitive-info": "^5.5.8",
     "react-native-svg": "^11.0.1",
     "react-native-vector-icons": "^6.6.0",
-    "react-navigation": "^4.3.8",
+    "react-navigation": "^4.4.0",
     "react-redux": "^7.2.0",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
@@ -44,14 +44,14 @@
     "snyk": "^1.369.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.5",
+    "@babel/core": "^7.11.1",
     "@babel/plugin-proposal-decorators": "^7.10.5",
-    "@babel/plugin-transform-runtime": "^7.10.5",
-    "@babel/runtime": "^7.10.5",
+    "@babel/plugin-transform-runtime": "^7.11.0",
+    "@babel/runtime": "^7.11.2",
     "@react-native-community/eslint-config": "^0.0.7",
     "@types/jest": "^24.0.24",
     "@types/react-native": "^0.63.2",
-    "@types/react-redux": "^7.1.7",
+    "@types/react-redux": "^7.1.9",
     "@types/react-test-renderer": "16.9.2",
     "@typescript-eslint/parser": "^2.34.0",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
