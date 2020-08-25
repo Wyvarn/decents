@@ -23,7 +23,7 @@
     "ethers": "^5.0.8",
     "identicon.js": "^2.3.3",
     "moment": "^2.27.0",
-    "native-base": "^2.13.12",
+    "native-base": "^2.13.14",
     "react": "16.13.1",
     "react-native": "0.63.2",
     "react-native-camera": "^3.36.0",
