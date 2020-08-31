@@ -9399,10 +9399,10 @@ react-native-animatable@1.3.3:
   dependencies:
     prop-types "^15.7.2"
 
-react-native-camera@^3.36.0:
-  version "3.36.0"
-  resolved "https://registry.yarnpkg.com/react-native-camera/-/react-native-camera-3.36.0.tgz#573980154decba57929957733c300d028697f52c"
-  integrity sha512-TdpT4q9gG4waDsnpKliFpmRnUMuBd3sHBlLBTlIFPPnxayVA9Z2E1yHuR10TCnuGI5a0i0wyCeLFOPJbMg70IQ==
+react-native-camera@^3.37.0:
+  version "3.37.0"
+  resolved "https://registry.yarnpkg.com/react-native-camera/-/react-native-camera-3.37.0.tgz#fd0df704392735ede5935627b6358be379e97e27"
+  integrity sha512-NlhQurRUgjHEFdu0XPxzTlhBY5p4o7iqCBYD7mJsh+sMLTNqu8STklm/avMd0S/6XMS7zsjKFY3eyKGuZfZR3Q==
   dependencies:
     prop-types "^15.6.2"
 
@@ -9507,15 +9507,6 @@ react-native-svg@^11.0.1:
   dependencies:
     css-select "^2.1.0"
     css-tree "^1.0.0-alpha.39"
-
-react-native-vector-icons@^6.6.0:
-  version "6.6.0"
-  resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-6.6.0.tgz#66cf004918eb05d90778d64bd42077c1800d481b"
-  integrity sha512-MImKVx8JEvVVBnaShMr7/yTX4Y062JZMupht1T+IEgbqBj4aQeQ1z2SH4VHWKNtWtppk4kz9gYyUiMWqx6tNSw==
-  dependencies:
-    lodash "^4.0.0"
-    prop-types "^15.6.2"
-    yargs "^13.2.2"
 
 react-native-vector-icons@^7.0.0:
   version "7.0.0"
@@ -12038,14 +12029,6 @@ yaml@^1.9.2:
   resolved "https://registry.yarnpkg.com/yaml/-/yaml-1.10.0.tgz#3b593add944876077d4d683fee01081bd9fff31e"
   integrity sha512-yr2icI4glYaNG+KWONODapy2/jDdMSDnrONSjblABjD9B4Z5LgiircSt8m8sRZFNi08kG9Sm0uSHtEmP3zaEGg==
 
-yargs-parser@^13.1.1:
-  version "13.1.1"
-  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-13.1.1.tgz#d26058532aa06d365fe091f6a1fc06b2f7e5eca0"
-  integrity sha512-oVAVsHz6uFrg3XQheFII8ESO2ssAf9luWuAd6Wexsu4F3OtIW0o8IribPXYrD4WC24LWtPrJlGy87y5udK+dxQ==
-  dependencies:
-    camelcase "^5.0.0"
-    decamelize "^1.2.0"
-
 yargs-parser@^13.1.2:
   version "13.1.2"
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-13.1.2.tgz#130f09702ebaeef2650d54ce6e3e5706f7a4fb38"
@@ -12069,22 +12052,6 @@ yargs-parser@^18.1.1, yargs-parser@^18.1.2:
   dependencies:
     camelcase "^5.0.0"
     decamelize "^1.2.0"
-
-yargs@^13.2.2:
-  version "13.3.0"
-  resolved "https://registry.yarnpkg.com/yargs/-/yargs-13.3.0.tgz#4c657a55e07e5f2cf947f8a366567c04a0dedc83"
-  integrity sha512-2eehun/8ALW8TLoIl7MVaRUrg+yCnenu8B4kBlRxj3GJGDKU1Og7sMXPNm1BYyM1DOJmTZ4YeN/Nwxv+8XJsUA==
-  dependencies:
-    cliui "^5.0.0"
-    find-up "^3.0.0"
-    get-caller-file "^2.0.1"
-    require-directory "^2.1.1"
-    require-main-filename "^2.0.0"
-    set-blocking "^2.0.0"
-    string-width "^3.0.0"
-    which-module "^2.0.0"
-    y18n "^4.0.0"
-    yargs-parser "^13.1.1"
 
 yargs@^13.2.4:
   version "13.3.2"
