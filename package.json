@@ -17,7 +17,7 @@
     "prepare": "yarn run snyk-protect"
   },
   "dependencies": {
-    "@react-navigation/native": "^5.7.3",
+    "@react-navigation/native": "^5.7.4",
     "@react-navigation/stack": "^5.9.0",
     "axios": "^0.20.0",
     "ethers": "^5.0.13",
@@ -50,7 +50,7 @@
     "@babel/runtime": "^7.11.2",
     "@react-native-community/eslint-config": "^0.0.7",
     "@types/jest": "^24.0.24",
-    "@types/react-native": "^0.63.22",
+    "@types/react-native": "^0.63.18",
     "@types/react-redux": "^7.1.9",
     "@types/react-test-renderer": "16.9.3",
     "@typescript-eslint/parser": "^2.34.0",
