@@ -24,7 +24,7 @@
     "identicon.js": "^2.3.3",
     "moment": "^2.29.1",
     "native-base": "^2.13.14",
-    "react": "16.13.1",
+    "react": "16.14.0",
     "react-native": "0.63.2",
     "react-native-camera": "^3.40.0",
     "react-native-easy-grid": "^0.2.2",
@@ -65,7 +65,7 @@
     "metro-react-native-babel-preset": "^0.63.0",
     "react-native-debugger-open": "^0.3.25",
     "react-native-mock-render": "^0.1.9",
-    "react-test-renderer": "16.13.1",
+    "react-test-renderer": "16.14.0",
     "typescript": "^3.9.7"
   },
   "snyk": true
