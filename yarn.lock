@@ -9891,10 +9891,10 @@ react-native-sensitive-info@^5.5.8:
   resolved "https://registry.yarnpkg.com/react-native-sensitive-info/-/react-native-sensitive-info-5.5.8.tgz#6ebb67eed83d1c2867bd435630ef2c41eef204ed"
   integrity sha512-p99oaEW4QG1RdUNrkvd/c6Qdm856dQw/Rk81f9fA6Y3DlPs6ADNdU+jbPuTz3CcOUJwuKBDNenX6LR9KfmGFEg==
 
-react-native-snackbar@^2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/react-native-snackbar/-/react-native-snackbar-2.2.3.tgz#0b1df239569d27372f1f7244bad5d1615d188a3f"
-  integrity sha512-JDS3S50i7F2w8X5JQyamNc/cVHYHAxd74VETeNQ1rB73lClWk2J99xEWgRz2r6hPHhJMEp9dGR7NZMYAVS4ozQ==
+react-native-snackbar@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/react-native-snackbar/-/react-native-snackbar-2.3.0.tgz#8c5777f1174addd01505dadb1fe8ce8f3f52113e"
+  integrity sha512-b20bRyzRKXxcv/kRf36K7oMM3l3dD4ovGVuMzOeNTThC5wcsslmzdmmcQwMDqVPOSFMSWCGS7OANN+EGwZjV2g==
 
 react-native-svg@^11.0.1:
   version "11.0.1"
