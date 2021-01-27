@@ -18,9 +18,9 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "ethers": "^5.0.25",
-    "@react-navigation/native": "^5.8.10",
     "@react-navigation/stack": "^5.14.1",
+    "@react-navigation/native": "^5.9.2",
+    "ethers": "^5.0.26",
     "identicon.js": "^2.3.3",
     "moment": "^2.29.1",
     "native-base": "^2.15.2",
@@ -32,7 +32,7 @@
     "react-native-gesture-handler": "^1.9.0",
     "react-native-permissions": "^2.2.2",
     "react-native-qrcode-svg": "^6.0.6",
-    "react-native-snackbar": "^2.3.1",
+    "react-native-snackbar": "^2.3.2",
     "react-native-sensitive-info": "^5.5.8",
     "react-native-svg": "^11.0.1",
     "react-native-vector-icons": "^7.1.0",
@@ -41,7 +41,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
-    "snyk": "^1.437.3"
+    "snyk": "^1.439.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
