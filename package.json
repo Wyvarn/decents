@@ -28,7 +28,7 @@
     "react-native": "0.64.0",
     "react-native-camera": "^3.43.2",
     "react-native-easy-grid": "^0.2.2",
-    "react-native-modal": "^11.7.0",
+    "react-native-modal": "^11.10.0",
     "react-native-gesture-handler": "^1.10.3",
     "react-native-permissions": "^2.2.2",
     "react-native-qrcode-svg": "^6.1.1",
