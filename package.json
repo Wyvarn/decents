@@ -41,7 +41,7 @@
     "redux": "^4.1.0",
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
-    "snyk": "^1.587.0"
+    "snyk": "^1.595.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.2",
